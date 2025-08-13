@@ -19,11 +19,6 @@
 
 ---
 
-## 📌 My GitHub Goals for 2025  
-- ✅ Learn to fork, clone, commit, and push changes  
-- ✅ Make my first pull request  
-- ⬜ Contribute to 3 beginner-friendly repositories  
-- ⬜ Build my first personal project and host it on GitHub Pages  
 
 ---
 
